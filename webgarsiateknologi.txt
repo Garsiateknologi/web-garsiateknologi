@@ -1,4 +1,5 @@
 
 web-garsiateknologi
--untuk mengola hasildesign website
 -unutk mempermudah belajar
+-belajar html
+-belajar css
